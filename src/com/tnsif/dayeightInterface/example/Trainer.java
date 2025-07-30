@@ -1,4 +1,4 @@
-package com.tnsif.dayeightInterfaceExample;
+package com.tnsif.dayeightInterface.example;
 
 public class Trainer {
 
