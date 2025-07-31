@@ -1,4 +1,4 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 
 public class TryCatchExample {
 	//program to demonstrate try catch block

@@ -1,8 +1,9 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class FinallyBlock {
-	//Program to demonstrate Finally block
+
+public class FinallyBlockDemo {
+	//program to demonstrate finally block
 
 	
 
@@ -12,9 +13,8 @@ public class FinallyBlock {
 				System.out.print("Enter the number : ");
 				int number = scanner.nextInt();
 				System.out.println(number % 2 == 0 ? number + " is Even" : number + " is Odd");
-				return;
 			} catch (InputMismatchException e) {
-				System.err.println("Invalid input...");
+				System.out.println("Invalid input...");
 
 			} finally {
 				System.out.println("In Finally....");

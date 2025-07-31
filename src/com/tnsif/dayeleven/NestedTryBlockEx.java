@@ -1,4 +1,4 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 
 public class NestedTryBlockEx {
 	//Program to demonstrate nested Try Catch Block

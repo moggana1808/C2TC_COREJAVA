@@ -1,4 +1,4 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class StringOperations {

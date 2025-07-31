@@ -1,4 +1,4 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 
 public class UncheckedException {
 	//Program to demonstrate unchecked exception

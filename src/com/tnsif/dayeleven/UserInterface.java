@@ -1,4 +1,4 @@
-package com.tnsif.dayeleven.finallyblock;
+package com.tnsif.dayeleven;
 
 public class UserInterface {
 	//program to demonstrate Index Out of Bounds Exception
